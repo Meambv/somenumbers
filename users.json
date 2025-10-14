@@ -1,0 +1,329 @@
+﻿{
+  "version": "2.4",
+  "updatedAt": "2025-08-23T16:41:51.882Z",
+  "updatedBy": "JD",
+  "users": [
+    {
+      "id": "uuid-1234-5678",
+      "username": "JD",
+      "fullName": "Johan Degraeve",
+      "email": "johan@aanscharius.com",
+      "phoneNumber": "+32 489 947 935",
+      "company": "AAVDS BV",
+      "companyAddress": {
+        "street": "Veenstraat 28",
+        "postalCode": "8470",
+        "city": "Gistel",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "Specialist",
+      "twoFactorMethod": "email",
+      "passwordHash": "hashed_05193121Jan61@_1754577029025",
+      "token": "login-20250823-184151-5lct50rr0cc",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 0,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        },
+        {
+          "title": "2025_10_14_@_02-22-44_todays.json",
+          "displayName": "2025_10_14_@_02-22-44_todays",
+          "accessLevel": 0,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        },
+        {
+          "title": "2025_10_14_@_02-22-44_Wetrok_robot.json",
+          "displayName": "2025_10_14_@_02-22-44_Wetrok_robot",
+          "accessLevel": 0,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        },
+        {
+          "title": "2025_10_14_@_02-22-44_P020100_PEEK_Printer_Project.json",
+          "accessLevel": 8,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-08-23T16:41:51.882Z",
+      "requiresPasswordSetup": true,
+      "passwordSetupDate": "2025-08-07T14:30:29.025Z",
+      "tokenGeneratedAt": "2025-08-23T16:41:51.882Z",
+      "passwordSetupCompletedAt": "2025-08-07T14:30:29.025Z"
+    },
+    {
+      "id": "uuid-1234-5679",
+      "username": "CG",
+      "fullName": "Carlo Groffils",
+      "email": "Carlo.Groffils@meam.be",
+      "phoneNumber": "your phonenumber",
+      "company": "MEAM",
+      "companyAddress": {
+        "street": "Centrum Zuid 3060",
+        "postalCode": "3530",
+        "city": "Houthalen-Helchteren",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "CEO",
+      "passwordHash": "",
+      "token": "carlo-first-login-token",
+      "twoFactorMethod": "email",
+      "emailConfirmed": false,
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 0,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        }
+      ]
+    },
+    {
+      "id": "uuid-1234-5680",
+      "username": "FdM",
+      "fullName": "Frédéric de Meulemeester",
+      "email": "Frederic.demeulemeester@meam.be",
+      "phoneNumber": "your phonenumber",
+      "company": "MEAM",
+      "companyAddress": {
+        "street": "Centrum Zuid 3060",
+        "postalCode": "3530",
+        "city": "Houthalen-Helchteren",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "COO",
+      "twoFactorMethod": "email",
+      "passwordHash": "hashed_Azerty'\"é&0_1754576340588",
+      "token": "used-20250807-161900-68g2pvr3qgb",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 0,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-08-06T21:44:45.154Z",
+      "requiresPasswordSetup": false,
+      "passwordSetupDate": "2025-08-07T14:19:00.588Z",
+      "tokenGeneratedAt": "2025-08-06T21:44:45.154Z",
+      "passwordSetupCompletedAt": "2025-08-07T14:19:00.589Z"
+    },
+    {
+      "id": "uuid-1234-5681",
+      "username": "CMT",
+      "fullName": "Cuong Minh Tran",
+      "email": "minhcuong.tran@meam.be",
+      "phoneNumber": "your phonenumber",
+      "company": "MEAM",
+      "companyAddress": {
+        "street": "Centrum Zuid 3060",
+        "postalCode": "3530",
+        "city": "Houthalen-Helchteren",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "",
+      "twoFactorMethod": "email",
+      "passwordHash": "hashed_Meam@30603530_1754472516162",
+      "token": "login-20250806-234452-k5alw0aft5",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 0,
+          "lastAccessed": "2025_10_14_@_02-22-44"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-08-06T21:44:52.841Z",
+      "requiresPasswordSetup": true,
+      "passwordSetupDate": "2025-08-06T09:28:36.162Z",
+      "tokenGeneratedAt": "2025-08-06T21:44:52.841Z"
+    },
+    {
+      "id": "uuid-1751834775375-l3w1crvcz",
+      "username": "JD2",
+      "fullName": "Johan Degraeve (Test Account)",
+      "email": "johan@mailboxla.com",
+      "phoneNumber": "+32 489 947 935",
+      "company": "AAVDS BV (Test)",
+      "companyAddress": {
+        "street": "Veenstraat 28",
+        "postalCode": "8470",
+        "city": "Gistel",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "Test User - Level 5",
+      "twoFactorMethod": "email",
+      "passwordHash": "hashed_05193121Jan61@_1754298434711",
+      "token": "temp-1754246240188-sxlb8m03m",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 5,
+          "lastAccessed": "2025_10_14_@_02-22-44",
+          "lastUsedFilter": "IsPE",
+          "lastUsedLayout": "rasci",
+          "lastUsedStyle": "default"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-08-03T18:37:20.188Z",
+      "requiresPasswordSetup": false,
+      "passwordSetupDate": "2025-08-04T09:07:14.711Z"
+    },
+    {
+      "id": "uuid-1752914584663-hrb5btoga",
+      "username": "CSCR",
+      "fullName": "Cosucra",
+      "email": "info@cosucra.be",
+      "phoneNumber": "+32 489 947 935",
+      "company": "COSUCRA",
+      "companyAddress": {
+        "street": "test",
+        "postalCode": "fillin",
+        "city": "fillin",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "project manager",
+      "twoFactorMethod": "email",
+      "passwordHash": "",
+      "token": "mda05tni-9gyrduh88a",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": " Cosucra1",
+          "accessLevel": 5,
+          "lastAccessed": "2025-07-19_@_10-45-13"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-07-19T08:45:14.808Z"
+    },
+    {
+      "id": "uuid-1234-5682",
+      "username": "TH",
+      "fullName": "T. Hendriks",
+      "email": "t.hendriks@placeholder.com",
+      "phoneNumber": "+32 XXX XXX XXX",
+      "company": "PLACEHOLDER",
+      "companyAddress": {
+        "street": "Placeholder Street",
+        "postalCode": "0000",
+        "city": "Placeholder City",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "Placeholder Function",
+      "twoFactorMethod": "email",
+      "passwordHash": "",
+      "token": "placeholder-token-th",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 5,
+          "lastAccessed": "2025-07-19T08:45:13.954Z"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-07-19T08:45:13.954Z"
+    },
+    {
+      "id": "uuid-1234-5683",
+      "username": "HMB",
+      "fullName": "H.M. Bakker",
+      "email": "h.bakker@placeholder.com",
+      "phoneNumber": "+32 XXX XXX XXX",
+      "company": "PLACEHOLDER",
+      "companyAddress": {
+        "street": "Placeholder Street",
+        "postalCode": "0000",
+        "city": "Placeholder City",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "Placeholder Function",
+      "twoFactorMethod": "email",
+      "passwordHash": "",
+      "token": "placeholder-token-hmb",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 5,
+          "lastAccessed": "2025-07-19T08:45:13.954Z"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-07-19T08:45:13.954Z"
+    },
+    {
+      "id": "uuid-1234-5684",
+      "username": "RG",
+      "fullName": "R. Gonzalez",
+      "email": "r.gonzalez@placeholder.com",
+      "phoneNumber": "+32 XXX XXX XXX",
+      "company": "PLACEHOLDER",
+      "companyAddress": {
+        "street": "Placeholder Street",
+        "postalCode": "0000",
+        "city": "Placeholder City",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "Placeholder Function",
+      "twoFactorMethod": "email",
+      "passwordHash": "",
+      "token": "placeholder-token-rg",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 5,
+          "lastAccessed": "2025-07-19T08:45:13.954Z"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-07-19T08:45:13.954Z"
+    },
+    {
+      "id": "uuid-1234-5685",
+      "username": "JMT",
+      "fullName": "J.M. Thompson",
+      "email": "j.thompson@placeholder.com",
+      "phoneNumber": "+32 XXX XXX XXX",
+      "company": "PLACEHOLDER",
+      "companyAddress": {
+        "street": "Placeholder Street",
+        "postalCode": "0000",
+        "city": "Placeholder City",
+        "country": "Belgium"
+      },
+      "role": "user",
+      "jobFunction": "Placeholder Function",
+      "twoFactorMethod": "email",
+      "passwordHash": "",
+      "token": "placeholder-token-jmt",
+      "checklists": [
+        {
+          "title": "2025_10_14_@_02-22-44 Cosucra1.json",
+          "displayName": "Cosucra1",
+          "accessLevel": 5,
+          "lastAccessed": "2025-07-19T08:45:13.954Z"
+        }
+      ],
+      "emailConfirmed": false,
+      "emailSentAt": "2025-07-19T08:45:13.954Z"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "Specialist",
+      "JobFunction": "Specialist",
       "twoFactorMethod": "email",
       "passwordHash": "hashed_05193121Jan61@_1754577029025",
       "token": "login-20250823-184151-5lct50rr0cc",
@@ -67,7 +67,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "CEO",
+      "JobFunction": "CEO",
       "passwordHash": "",
       "token": "carlo-first-login-token",
       "twoFactorMethod": "email",
@@ -95,7 +95,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "COO",
+      "JobFunction": "COO",
       "twoFactorMethod": "email",
       "passwordHash": "hashed_Azerty'\"é&0_1754576340588",
       "token": "used-20250807-161900-68g2pvr3qgb",
@@ -128,7 +128,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "",
+      "JobFunction": "",
       "twoFactorMethod": "email",
       "passwordHash": "hashed_Meam@30603530_1754472516162",
       "token": "login-20250806-234452-k5alw0aft5",
@@ -160,7 +160,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "Test User - Level 5",
+      "JobFunction": "Test User - Level 5",
       "twoFactorMethod": "email",
       "passwordHash": "hashed_05193121Jan61@_1754298434711",
       "token": "temp-1754246240188-sxlb8m03m",
@@ -194,7 +194,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "project manager",
+      "JobFunction": "project manager",
       "twoFactorMethod": "email",
       "passwordHash": "",
       "token": "mda05tni-9gyrduh88a",
@@ -223,7 +223,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "Placeholder Function",
+      "JobFunction": "Placeholder Function",
       "twoFactorMethod": "email",
       "passwordHash": "",
       "token": "placeholder-token-th",
@@ -252,7 +252,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "Placeholder Function",
+      "JobFunction": "Placeholder Function",
       "twoFactorMethod": "email",
       "passwordHash": "",
       "token": "placeholder-token-hmb",
@@ -281,7 +281,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "Placeholder Function",
+      "JobFunction": "Placeholder Function",
       "twoFactorMethod": "email",
       "passwordHash": "",
       "token": "placeholder-token-rg",
@@ -310,7 +310,7 @@
         "country": "Belgium"
       },
       "role": "user",
-      "jobFunction": "Placeholder Function",
+      "JobFunction": "Placeholder Function",
       "twoFactorMethod": "email",
       "passwordHash": "",
       "token": "placeholder-token-jmt",

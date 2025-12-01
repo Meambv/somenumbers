@@ -1,0 +1,11 @@
+{
+  "_editedOn": "2025_12_01_@_16-02-12",
+  "files": [
+    {
+      "pattern": "**/*",
+      "instructions": [
+        "When editing a file, add a top-of-file comment containing the current timestamp in the format YYYY_MM_DD_@_HH-MM-SS (for example 2025_12_01_@_16-02-12) and remove any previous timestamp comment before saving."
+      ]
+    }
+  ]
+}
